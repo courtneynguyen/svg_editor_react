@@ -1,5 +1,5 @@
 {
-  "name": "react_toy",
+  "name": "svg_editor_react",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Admiral Potato, Courtney Nguyen",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.12.2"
+  },
+  "dependencies": {
+    "react": "^0.14.0"
+  }
 }
