@@ -1,1 +1,3 @@
-document.write("It works.");
+var ControlPoint = require('./controlPoint.js');
+
+ControlPoint.helloWorld();
