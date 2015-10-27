@@ -1,5 +1,5 @@
 class ControlPoint {
-	static helloWorld () {
+	static helloWorld() {
 		console.log('HELLO WORLD');
 	}
 }

@@ -1,3 +1,3 @@
-var ControlPoint = require('./controlPoint.js');
+import ControlPoint from "./controlPoint.js";
 
 ControlPoint.helloWorld();

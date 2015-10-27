@@ -44,11 +44,15 @@
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
 
-	'use strict';
+	"use strict";
 
-	var ControlPoint = __webpack_require__(1);
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
-	ControlPoint.helloWorld();
+	var _controlPointJs = __webpack_require__(1);
+
+	var _controlPointJs2 = _interopRequireDefault(_controlPointJs);
+
+	_controlPointJs2["default"].helloWorld();
 
 /***/ },
 /* 1 */
